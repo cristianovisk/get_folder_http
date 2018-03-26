@@ -1,4 +1,4 @@
-# Cristiano Henrique
+# Script Python Folder Site
 
 Script Python básico para deteccao de pastas em sites com base em wordlists pre carregadas.
 
@@ -7,3 +7,6 @@ Script Python básico para deteccao de pastas em sites com base em wordlists pre
  
  
  Observação: é estritamente necessário o uso de "/" no final do site para indicar que refere-se a uma pasta.
+
+
+Created by Cristianovisk
